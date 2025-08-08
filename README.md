@@ -1,7 +1,10 @@
 # obsinity-engine
 
----
+**Obsinity Engine** is the time-series analytics core of Obsinity — optimized for real-time observability and long-term retention. Built directly on PostgreSQL, it delivers:
 
-**Obsinity** is a high-performance, PostgreSQL-native observability platform with full [OpenTelemetry](https://opentelemetry.io/) compatibility. It ingests, stores, and analyzes structured events, metrics, and traces in real time, while retaining a unified, extensible storage model for long-term analytics. Powered by the **Obsinity Engine**, it delivers low-latency queries, rich aggregation, and forever-retained signals for monitoring, alerting, and historical insight.
+* **High-throughput ingestion** of OpenTelemetry and native signals
+* **Low-latency analytics** across massive datasets
+* **Flexible aggregation** over any time range with interval-based rollups
+* **Forever retention** without losing query performance
 
----
+Tagline: *Powering observability across all time. Where every signal lives forever.*
